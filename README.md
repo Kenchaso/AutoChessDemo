@@ -1,0 +1,2 @@
+# AutoChessDemo
+オートチェスのデモ
